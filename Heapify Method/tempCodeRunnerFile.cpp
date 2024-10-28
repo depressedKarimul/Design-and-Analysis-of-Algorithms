@@ -1,1 +1,1 @@
-i - 1
+ight <= n && arr[right] < arr[smal
